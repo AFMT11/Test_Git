@@ -1,6 +1,10 @@
 
 int Sum(int a, int b)
 {
-    int sum  = a + b;
-    return sum;
+    return a+b;
+}
+
+int Sub(int a, int b)
+{
+    return a-b;
 }
